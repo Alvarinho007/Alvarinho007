@@ -1,16 +1,15 @@
-## Hi there 👋
+## Just a dream 🤡
 
-<!--
-**Alvarinho007/Alvarinho007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alvaro souza
 
-Here are some ideas to get you started:
+- Sou um estudante que partcipa do projeto [Alura].(https://www.alura.com.br) 
+- Estou aprendendo o básico da linguagem Javascript
+- Aqui desenvolvo e compartilho os meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode falar comigo por 📫
+
+0000109432274xsp@al.educacao.sp.gov.br
+
+@a7souzaalvaro
+
+![](https://media1.tenor.com/m/aaxNiOtZVsQAAAAC/killua-serious.gif)
